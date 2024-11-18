@@ -1,0 +1,16 @@
+.position {
+  position: relative;
+  right: 25px;
+  margin-right: -16px;
+  margin-top: 6px;
+}
+
+.hide {
+  display: none;
+}
+
+.card {
+  background-color: bisque;
+  border-radius: 20px;
+  box-shadow: 4px 4px 4px gray;
+}
